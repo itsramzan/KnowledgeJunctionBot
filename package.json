@@ -1,0 +1,17 @@
+{
+  "name": "knowledgejunctionbot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Knowledge Junction's students",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "Rimon Ahmed",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "telegraf": "^4.16.3"
+  }
+}
