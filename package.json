@@ -2,7 +2,7 @@
   "name": "knowledgejunctionbot",
   "version": "1.0.0",
   "description": "Telegram bot for Knowledge Junction's students",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "node src/main.js"
   },
